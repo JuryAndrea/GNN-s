@@ -1,6 +1,11 @@
 ### Introduction
 This repository has the goal to reproduce the Anti-Symmetric DGN architecture and compare it with other standard convolutional graph model such as DGN, GAT, GCN and GGNN. A-DGN was developed by Alessio Gravina, Davide Bacciu and Claudio Gallicchio (https://openreview.net/forum?id=J3Y7cgZOOS).
 
+:warning: This repository was created for the Graph Deep Learning course project. 
+:no_entry_sign: It is not intended for reuse. 
+:heart: Special thanks to my team [Christian Altrichter](https://github.com/Altricch) and [Francesco Huber](https://github.com/Frakk0) for their contributions.
+
+
 ### Requirements
 We assume Miniconda/Anaconda is installed. 
 
